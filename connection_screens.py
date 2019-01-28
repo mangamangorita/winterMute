@@ -2,7 +2,7 @@
 """
 Connection screen
 
-Texts in this module will be shown to the user at login-time.
+Texts written here will be shown to user at login-time.
 
 Evennia will look at global string variables (variables defined
 at the "outermost" scope of this module and use it as the
